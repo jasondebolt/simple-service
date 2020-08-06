@@ -1,4 +1,5 @@
 # Maven Spring Boot WebSocket app
+
 A dockerized clone of the spring.io WebSocket example.
 
 ## Original Spring.io Guide
